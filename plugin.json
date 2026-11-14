@@ -1,0 +1,27 @@
+{
+  "name": "siyuan-image-label",
+  "author": "jiangeeeeee",
+  "url": "https://github.com/jiangeeeeee/siyuan-image-label",
+  "version": "0.3.0",
+  "minAppVersion": "3.8.5",
+  "backends": [
+    "all"
+  ],
+  "frontends": [
+    "desktop",
+    "desktop-window",
+    "browser-desktop"
+  ],
+  "displayName": {
+    "default": "TuJian · Image Label",
+    "zh-CN": "图笺"
+  },
+  "description": {
+    "default": "Image notes, rich labels and handwriting. 7-day trial, free permanent activation.",
+    "zh-CN": "图片轻编辑、悬浮笺注与图上手写。试用七天，免费领取永久授权。"
+  },
+  "readme": {
+    "default": "README.md"
+  },
+  "disabledInPublish": true
+}
