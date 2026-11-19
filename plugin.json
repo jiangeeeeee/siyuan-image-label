@@ -2,7 +2,7 @@
   "name": "siyuan-image-label",
   "author": "jiangeeeeee",
   "url": "https://github.com/jiangeeeeee/siyuan-image-label",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "minAppVersion": "3.8.5",
   "backends": [
     "all"
@@ -17,8 +17,8 @@
     "zh-CN": "图笺"
   },
   "description": {
-    "default": "Image notes, rich labels and handwriting. 7-day trial, free permanent activation.",
-    "zh-CN": "图片轻编辑、悬浮笺注与图上手写。试用七天，免费领取永久授权。"
+    "default": "Annotate images with linked notes and handwriting. Labels follow images across notes.",
+    "zh-CN": "给思源里的导图和截图贴便签、挂资料、写批注。复制或移动图片，便签随图同行。"
   },
   "readme": {
     "default": "README.md"
