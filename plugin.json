@@ -2,7 +2,7 @@
   "name": "siyuan-image-label",
   "author": "jiangeeeeee",
   "url": "https://github.com/jiangeeeeee/siyuan-image-label",
-  "version": "0.3.2",
+  "version": "0.3.4",
   "minAppVersion": "3.8.5",
   "backends": [
     "all"
