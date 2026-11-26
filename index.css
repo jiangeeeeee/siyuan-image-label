@@ -61,6 +61,11 @@
 .il-label-body:empty:before{content:attr(data-placeholder);color:var(--b3-theme-on-surface,#9aa3b0);pointer-events:none}.il-label-body p,.il-label-body div{margin:0 0 5px}.il-label-body ul,.il-label-body ol{padding-left:22px;margin:5px 0}.il-label-body h1,.il-label-body h2,.il-label-body h3{font-size:15px;margin:7px 0}.il-label-body blockquote{margin:6px 0;padding-left:9px;border-left:2px solid var(--b3-theme-primary,#4675d9)}.il-label-body a{color:var(--b3-theme-primary,#4675d9);text-decoration:underline;cursor:pointer}.il-label-body pre{padding:6px;border-radius:5px;overflow:auto;background:var(--b3-theme-surface,#f2f4f8)}
 .il-label-card[data-mode=view] .il-label-title{border:0;margin-bottom:3px;outline:none;pointer-events:none}.il-label-card[data-mode=view] .il-label-body{border:0;padding:3px 2px;resize:none;min-height:32px}.il-label-card .il-label-edit{color:var(--b3-theme-primary,#4675d9);padding:4px 10px}
 
+button[data-id="siyuan-image-label:auto-hover"] svg {
+  fill: none;
+  stroke: currentColor;
+}
+
 /* Lucide icons are bundled locally. All motion respects reduced-motion. */
 .ilnh-host {
   position: absolute;
